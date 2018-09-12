@@ -1,9 +1,9 @@
 <template>
     <div id="app">
-        <div id="banner">
+        <div id="banner" >
             <img src="../../assets/images/slider3.jpg">
         </div>
-		<grid />
+        <grid />
         <bottom></bottom>
     </div>
 </template>
@@ -24,4 +24,5 @@
     img {
         width: 100%;
     }
+
 </style>
